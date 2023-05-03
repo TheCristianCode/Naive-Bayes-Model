@@ -1,2 +1,2 @@
-# Naive Bayes Model
+# Naive-Bayes
   Modelo Naive-Bayes
